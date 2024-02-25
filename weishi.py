@@ -104,7 +104,7 @@ result_counter = 8  # 每个频道需要的个数
 
 with open("weishi.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('卫视频道,#genre#\n')
+    file.write('⚛️卫视频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if '卫视' in channel_name:
@@ -120,7 +120,7 @@ with open("weishi.txt", 'w', encoding='utf-8') as file:
 
 with open("weishi.m3u", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    #file.write('卫视频道,#genre#\n')
+    #file.write('⚛️卫视频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if '卫视' in channel_name:

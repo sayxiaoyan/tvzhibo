@@ -103,7 +103,7 @@ result_counter = 8  # 每个频道需要的个数
 
 with open("cctv.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('央视频道,#genre#\n')
+    file.write('⚛️央视频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if 'CCTV' in channel_name:

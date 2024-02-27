@@ -104,7 +104,7 @@ result_counter = 5  # 每个频道需要的个数
 
 with open("qita.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('⚛️地方频道,#genre#\n')
+    file.write('⚛️地方|频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name:
@@ -122,7 +122,7 @@ with open("qita.txt", 'w', encoding='utf-8') as file:
 
 with open("qita.m3u", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    #file.write('⚛️地方频道,#genre#\n')
+    #file.write('⚛️地方|频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name:

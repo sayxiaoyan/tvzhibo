@@ -1,9 +1,5 @@
 ⚛️地方|频道,#genre#
-五星体育,http://61.170.164.195:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-新闻综合,http://61.170.164.195:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-江西影视旅,http://111.74.155.231:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-江西新闻,http://111.74.155.231:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
-江西都市频,http://111.74.155.231:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-游戏风云,http://61.170.164.195:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-第一财经,http://61.170.164.195:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏城市,http://222.92.7.170:3334/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏综艺,http://222.92.7.170:3333/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
+第一财经,http://222.71.189.186:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 2024-04-04更新,#genre#

@@ -1,5 +1,3 @@
 ⚛️地方|频道,#genre#
-湖北电视台,http://221.234.25.122:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://221.234.25.122:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 荆门新闻,http://221.234.25.122:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 2024-05-02更新,#genre#

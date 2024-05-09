@@ -1,7 +1,14 @@
 ⚛️地方|频道,#genre#
-湖北电视台,http://221.234.25.122:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://221.234.25.122:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://58.53.152.25:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://58.19.13.92:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北公共新闻,http://58.53.152.25:9901/tsfile/live/faacts/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北垄上,http://58.53.152.25:9901/tsfile/live/faacts/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北影视,http://58.53.152.25:9901/tsfile/live/faacts/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://58.19.13.92:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 荆门教育,http://221.234.25.122:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+荆门新闻,http://221.234.25.122:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://58.19.13.92:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://221.234.25.122:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://58.19.13.92:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
 2024-05-09更新,#genre#

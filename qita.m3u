@@ -1,11 +1,3 @@
-#EXTINF:-1 group-title="地方频道",第一剧场
-http://58.19.13.92:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方频道",金鹰卡通
-http://58.19.13.92:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方频道",金鹰纪实
-http://58.19.13.92:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方频道",风云足球
-http://58.19.13.92:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道",风云足球
 http://59.62.8.250:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="2024-05-24更新"
+#EXTINF:-1 group-title="2024-05-25更新"

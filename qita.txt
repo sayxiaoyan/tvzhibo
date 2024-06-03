@@ -1,5 +1,15 @@
 ⚛️地方|频道,#genre#
-湖北影视,http://113.57.109.48:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实,http://113.57.109.48:1111/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+江西公共农,http://111.74.155.231:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+江西教育标,http://111.74.155.231:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
+江西新闻,http://111.74.155.231:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
+江西经济生活,http://111.74.155.231:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+泉州综合,http://117.27.190.42:9998/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
+福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://117.27.190.42:9998/tsfile/live/23286_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://117.27.190.42:9998/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
+福建经济,http://117.27.190.42:9998/tsfile/live/23289_1.m3u8?key=txiptv&playlive=1&authid=0
+福建综合,http://117.27.190.42:9998/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://117.27.190.42:9998/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+龙岩综合,http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
 2024-06-03更新,#genre#

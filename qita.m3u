@@ -1,7 +1,5 @@
-#EXTINF:-1 group-title="地方频道",BTV卡通
-http://183.94.1.118:8801/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方频道",湖北经视
-http://183.94.1.118:8801/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方频道",金鹰卡通
-http://183.94.1.118:8801/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道",武汉1新闻综合
+http://58.48.37.158:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道",武汉2电视剧
+http://58.48.37.158:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="2024-07-25更新"

@@ -1,9 +1,6 @@
 ⚛️央视|频道,#genre#
-CCTV3,http://218.3.138.25:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://36.249.150.192:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://36.249.150.6:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://58.23.26.114:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://218.3.138.25:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://36.249.150.6:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://36.249.150.192:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://218.3.138.25:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://36.249.150.192:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://58.23.26.70:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0

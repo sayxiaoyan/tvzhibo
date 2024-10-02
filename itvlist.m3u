@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://49.76.82.137:60000/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://49.76.82.137:60000/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://49.76.82.137:60000/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://49.76.82.137:60000/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://49.76.82.137:60000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="2024-10-02更新"

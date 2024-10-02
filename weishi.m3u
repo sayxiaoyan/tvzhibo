@@ -1,0 +1,4 @@
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://49.76.82.137:60000/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://49.76.82.137:60000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0

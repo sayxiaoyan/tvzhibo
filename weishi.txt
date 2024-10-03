@@ -1,3 +1,1 @@
 ⚛️卫视|频道,#genre#
-东南卫视,http://49.76.82.137:60000/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://49.76.82.137:60000/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0

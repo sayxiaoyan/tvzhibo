@@ -1,13 +1,6 @@
 ⚛️央视|频道,#genre#
-CCTV2,http://49.76.82.137:60000/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://49.76.82.137:60000/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://49.76.82.137:60000/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://49.76.82.137:60000/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://49.76.82.137:60000/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ⚛️卫视|频道,#genre#
-东南卫视,http://49.76.82.137:60000/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://49.76.82.137:60000/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ⚛️地方|频道,#genre#
 2024-10-03更新,#genre#
